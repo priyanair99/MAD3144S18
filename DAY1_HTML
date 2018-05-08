@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Flipkart.com - But and sale Stuff</title>
+  </head>
+
+<body>
+  <h1> CAT </h1>
+  <h2> DOG </h2>
+  <h3> CARROT </h3>
+  <h4> CARROT </h4>
+  <h5> CARROT </h5>
+  <h6> CARROT </h6>
+
+  <p>
+    fhtlkergjtldfmgldfgjmklgmkjmhejtlghkfhkljepitupoidfgncvnhaowiurr <br/>
+    rtyhjitfuhglvkdzjy5gopiyrtiyp oispzroigtrgt
+    rthyrfghsetyyjuytjtyjyjrty
+    rtyrtdxgdrt
+  </p>
+
+  <p>
+    fhtlkergjtldfmgldfgjmklgmkjmhejtlghkfhkljepitupoidfgncvnhaowiurr <br/>
+    rtyhjitfuhglvkdzjy5gopiyrtiyp oispzroigtrgt
+    rthyrfghsetyyjuytjtyjyjrty
+    rtyrtdxgdrt
+  </p>
+
+  <p>
+    fhtlkergjtldfmgldfgjmklgmkjmhejtlghkfhkljepitupoidfgncvnhaowiurr <br/>
+    rtyhjitfuhglvkdzjy5gopiyrtiyp oispzroigtrgt
+    rthyrfghsetyyjuytjtyjyjrty
+    rtyrtdxgdrt
+  </p>
+
+  <p>
+    fhtlkergjtldfmgldfgjmklgmkjmhejtlghkfhkljepitupoidfgncvnhaowiurr <br/>
+    rtyhjitfuhglvkdzjy5gopiyrtiyp oispzroigtrgt
+    rthyrfghsetyyjuytjtyjyjrty
+    rtyrtdxgdrt
+  </p>
+
+  <img src = "https://images.unsplash.com/photo-1499792914147-5e4c9a4a9684?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=161799cf6c9503ea10fbdb38afd88dca&auto=format&fit=crop&w=1561&q=80">
+
+  <img src = "1.jpeg"> <br/>
+
+  <a href = "https://unsplash.com/"> Click  </a>
+  |
+  <a href = "https://tentree.com/"> for </a>
+  |
+  <a href = "https://images.unsplash.com/photo-1511547876233-3710a28eb30a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=22f767f18b0b0f11a5a1b6f3926cbcd3&auto=format&fit=crop&w=1600&q=80">  more </a>
+</body>
+
+</html>
